@@ -1,0 +1,30 @@
+
+.user{
+
+}
+
+.video{
+    width:30%;
+    border-radius: 100%;
+
+    box-shadow: 0 0 10px #2F4F4F;
+    font-size: 250%;
+    margin-left: 35%;
+    padding: 7%;
+    color: #81BAFF;
+    cursor: pointer;
+    -moz-transition-duration:0.3s;
+}
+
+.video:hover{
+    background:#F0FFF0;
+    box-shadow: 2px 3px 8px #2F4F4F;
+}
+
+.logo2{
+    width: 35%;
+}
+
+
+
+
